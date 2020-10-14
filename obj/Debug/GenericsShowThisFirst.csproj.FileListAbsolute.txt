@@ -1,0 +1,6 @@
+C:\CodeProjects\GenericsShowThisFirst\bin\Debug\GenericsShowThisFirst.exe.config
+C:\CodeProjects\GenericsShowThisFirst\bin\Debug\GenericsShowThisFirst.exe
+C:\CodeProjects\GenericsShowThisFirst\bin\Debug\GenericsShowThisFirst.pdb
+C:\CodeProjects\GenericsShowThisFirst\obj\Debug\GenericsShowThisFirst.csprojAssemblyReference.cache
+C:\CodeProjects\GenericsShowThisFirst\obj\Debug\GenericsShowThisFirst.exe
+C:\CodeProjects\GenericsShowThisFirst\obj\Debug\GenericsShowThisFirst.pdb
